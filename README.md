@@ -11,4 +11,5 @@ Leetcode Practice problems
 | [0184-department-highest-salary](https://github.com/DhruvYd61202/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/DhruvYd61202/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/DhruvYd61202/LeetCode/tree/master/0595-big-countries) |
+| [1948-rearrange-products-table](https://github.com/DhruvYd61202/LeetCode/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
