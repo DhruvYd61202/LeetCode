@@ -7,5 +7,6 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/DhruvYd61202/LeetCode/tree/master/0176-second-highest-salary) |
+| [0184-department-highest-salary](https://github.com/DhruvYd61202/LeetCode/tree/master/0184-department-highest-salary) |
 | [0595-big-countries](https://github.com/DhruvYd61202/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
