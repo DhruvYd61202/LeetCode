@@ -15,4 +15,5 @@ Leetcode Practice problems
 | [1892-find-total-time-spent-by-each-employee](https://github.com/DhruvYd61202/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/DhruvYd61202/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2057-count-salary-categories](https://github.com/DhruvYd61202/LeetCode/tree/master/2057-count-salary-categories) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DhruvYd61202/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
