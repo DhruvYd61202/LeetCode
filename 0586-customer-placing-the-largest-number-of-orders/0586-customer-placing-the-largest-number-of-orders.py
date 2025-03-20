@@ -3,7 +3,7 @@ import pandas as pd
 def largest_orders(orders: pd.DataFrame) -> pd.DataFrame:
     # Group by 'customer_number' and count occurrences
     customer_counts = orders.groupby('customer_number').size().reset_index(name='count')
-    
+    # print(customer_counts)
     # Sort by count in descending order
     sorted_customers = customer_counts.sort_values(by='count', ascending=False)
     
