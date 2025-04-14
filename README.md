@@ -55,4 +55,16 @@ This serves as both a personal reference and a resource for others preparing for
 | [1948-rearrange-products-table](https://github.com/DhruvYd61202/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2057-count-salary-categories](https://github.com/DhruvYd61202/LeetCode/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DhruvYd61202/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
