@@ -4,8 +4,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Used-informational?logo=pandas)
 ![MySQL](https://img.shields.io/badge/MySQL-SQL-blue?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-blue?logo=postgresql&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-150%2B-success)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/your_username/)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-50%2B-success)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/dhruv61202/)
 
 ---
 
