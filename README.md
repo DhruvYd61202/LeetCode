@@ -46,6 +46,7 @@ This serves as both a personal reference and a resource for others preparing for
 | [1415-students-and-examinations](https://github.com/DhruvYd61202/LeetCode/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/DhruvYd61202/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/DhruvYd61202/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/DhruvYd61202/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/DhruvYd61202/LeetCode/tree/master/1827-invalid-tweets) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/DhruvYd61202/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/DhruvYd61202/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
