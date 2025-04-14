@@ -1,7 +1,30 @@
-# LeetCode
-Leetcode Practice problems <br>
-Here I have updated all the problems I solved on the Leetcode Platform. :) <br>
-I have used Pandas, MySQL and PostgreSQL
+# LeetCode Solutions
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Used-informational?logo=pandas)
+![MySQL](https://img.shields.io/badge/MySQL-SQL-blue?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-blue?logo=postgresql&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-150%2B-success)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/your_username/)
+
+---
+
+This repository contains structured solutions to a wide range of algorithmic and data-focused problems from [LeetCode](https://leetcode.com/). The solutions are implemented using:
+
+- **Python (Pandas)** – for tackling data manipulation and data analysis problems  
+- **SQL (MySQL & PostgreSQL)** – for solving relational database queries using both dialects
+
+Each solution is optimized for performance and readability, and follows best practices in coding and query design. The repository is organized by problem type and includes problem statements, approach explanations, and inline comments where necessary.
+
+This serves as both a personal reference and a resource for others preparing for technical interviews or deepening their understanding of algorithms and databases.
+
+---
+
+## 📂 Repository Structure (Optional)
+
+
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
