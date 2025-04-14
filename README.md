@@ -22,25 +22,6 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 
 ---
 
-## 📁 Directory Structure
-
-```plaintext
-📦 leetcode-solutions/
-├── pandas_solutions/
-│   ├── problem_name_1.py
-│   └── ...
-├── mysql_solutions/
-│   ├── problem_name_1.sql
-│   └── ...
-├── postgresql_solutions/
-│   ├── problem_name_1.sql
-│   └── ...
-├── dsa_solutions/
-│   ├── arrays/
-│   ├── strings/
-│   ├── linked_lists/
-│   └── ...
-└── README.md
 
 
 
