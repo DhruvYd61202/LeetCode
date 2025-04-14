@@ -20,7 +20,7 @@ This serves as both a personal reference and a resource for others preparing for
 
 ---
 
-## 📂 Repository Structure (Optional)
+
 
 
 
