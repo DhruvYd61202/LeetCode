@@ -1,6 +1,7 @@
 # LeetCode
 Leetcode Practice problems <br>
 Here I have updated all the problems I solved on the Leetcode Platform. :) <br>
+I have used Pandas, MySQL and PostgreSQL
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
