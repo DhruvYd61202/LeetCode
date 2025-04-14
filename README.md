@@ -1,24 +1,47 @@
-# LeetCode Solutions
+# LeetCode Solutions – SQL, Pandas & DSA
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Used-informational?logo=pandas)
 ![MySQL](https://img.shields.io/badge/MySQL-SQL-blue?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-blue?logo=postgresql&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-Python-important)
 ![Problems Solved](https://img.shields.io/badge/Problems_Solved-50%2B-success)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/dhruv61202/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/your_username_here/)
 
 ---
 
-This repository contains structured solutions to a wide range of algorithmic and data-focused problems from [LeetCode](https://leetcode.com/). The solutions are implemented using:
+## 📘 About This Repository
 
-- **Python (Pandas)** – for tackling data manipulation and data analysis problems  
-- **SQL (MySQL & PostgreSQL)** – for solving relational database queries using both dialects
+This repository contains structured solutions to a variety of **LeetCode problems** using:
 
-Each solution is optimized for performance and readability, and follows best practices in coding and query design. The repository is organized by problem type and includes problem statements, approach explanations, and inline comments where necessary.
+- 🐼 **Pandas (Python)** – for data manipulation and analytics problems
+- 🐬 **MySQL** & 🐘 **PostgreSQL** – for SQL database problems
+- 🧠 **DSA (Python)** – classic algorithm and data structure problems
 
-This serves as both a personal reference and a resource for others preparing for technical interviews or deepening their understanding of algorithms and databases.
+Each solution includes a clear problem link, concise explanation, and clean, well-commented code. This serves as a personal reference and a helpful guide for others preparing for interviews or practicing problem-solving.
 
 ---
+
+## 📁 Directory Structure
+
+```plaintext
+📦 leetcode-solutions/
+├── pandas_solutions/
+│   ├── problem_name_1.py
+│   └── ...
+├── mysql_solutions/
+│   ├── problem_name_1.sql
+│   └── ...
+├── postgresql_solutions/
+│   ├── problem_name_1.sql
+│   └── ...
+├── dsa_solutions/
+│   ├── arrays/
+│   ├── strings/
+│   ├── linked_lists/
+│   └── ...
+└── README.md
+
 
 
 
