@@ -70,6 +70,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvYd61202/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -92,4 +93,8 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvYd61202/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
