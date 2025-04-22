@@ -36,6 +36,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | ------- |
 | [0176-second-highest-salary](https://github.com/DhruvYd61202/LeetCode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/DhruvYd61202/LeetCode/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/DhruvYd61202/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/DhruvYd61202/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/DhruvYd61202/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/DhruvYd61202/LeetCode/tree/master/0197-rising-temperature) |
