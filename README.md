@@ -74,6 +74,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [1948-rearrange-products-table](https://github.com/DhruvYd61202/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2057-count-salary-categories](https://github.com/DhruvYd61202/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/DhruvYd61202/LeetCode/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/DhruvYd61202/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DhruvYd61202/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
