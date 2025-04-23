@@ -133,6 +133,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/DhruvYd61202/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0189-rotate-array) |
 ## Counting Sort
 |  |
