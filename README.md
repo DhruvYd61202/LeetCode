@@ -111,5 +111,6 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/DhruvYd61202/LeetCode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/DhruvYd61202/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
