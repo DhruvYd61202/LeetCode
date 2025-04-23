@@ -82,6 +82,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvYd61202/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/DhruvYd61202/LeetCode/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/DhruvYd61202/LeetCode/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,4 +127,8 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0189-rotate-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/DhruvYd61202/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
