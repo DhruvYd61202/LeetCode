@@ -89,6 +89,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/DhruvYd61202/LeetCode/tree/master/0274-h-index) |
+| [3707-find-the-most-common-response](https://github.com/DhruvYd61202/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
+| [3707-find-the-most-common-response](https://github.com/DhruvYd61202/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
+| [3707-find-the-most-common-response](https://github.com/DhruvYd61202/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +139,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0125-valid-palindrome](https://github.com/DhruvYd61202/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DhruvYd61202/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/DhruvYd61202/LeetCode/tree/master/0392-is-subsequence) |
+| [3707-find-the-most-common-response](https://github.com/DhruvYd61202/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## String Matching
 |  |
 | ------- |
