@@ -112,6 +112,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0088-merge-sorted-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/DhruvYd61202/LeetCode/tree/master/0274-h-index) |
+| [3859-maximum-product-of-two-digits](https://github.com/DhruvYd61202/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | ------- |
 | [0009-palindrome-number](https://github.com/DhruvYd61202/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0189-rotate-array) |
+| [3859-maximum-product-of-two-digits](https://github.com/DhruvYd61202/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
