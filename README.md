@@ -91,6 +91,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/DhruvYd61202/LeetCode/tree/master/0274-h-index) |
+| [0643-maximum-average-subarray-i](https://github.com/DhruvYd61202/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3707-find-the-most-common-response](https://github.com/DhruvYd61202/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## Two Pointers
 |  |
@@ -173,4 +174,8 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhruvYd61202/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/DhruvYd61202/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
