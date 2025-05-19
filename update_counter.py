@@ -1,19 +1,21 @@
 import os
 
-# Folder name where your solutions are stored
-directory = 'LeetCode_Solutions'
-extensions = ('.py', '.cpp', '.java')  # Add/remove as needed
+root_dir = 'LeetCode'  # Your root folder with all problem folders
+valid_extensions = ('.py', '.cpp', '.java')  # Adjust if needed
 
-# Count files with the correct extensions
-count = sum(1 for file in os.listdir(directory) if file.endswith(extensions))
+count = 0
+for dirpath, dirnames, filenames in os.walk(root_dir):
+    for file in filenames:
+        if file.endswith(valid_extensions):
+            count += 1
 
-# Read README.md and update the counter line
-with open("README.md", "r") as f:
+readme_path = 'README.md'
+with open(readme_path, 'r') as f:
     lines = f.readlines()
 
-with open("README.md", "w") as f:
+with open(readme_path, 'w') as f:
     for line in lines:
         if line.startswith("### ✅ Solved LeetCode Problems"):
-            f.write(f"### ✅ Solved LeetCode Problems: **'{count}'**\n")
+            f.write(f"### ✅ Solved LeetCode Problems: **`{count}`**\n")
         else:
             f.write(line)
