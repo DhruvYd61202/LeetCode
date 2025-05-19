@@ -14,6 +14,6 @@ with open("README.md", "r") as f:
 with open("README.md", "w") as f:
     for line in lines:
         if line.startswith("### ✅ Solved LeetCode Problems"):
-            f.write(f"### ✅ Solved LeetCode Problems: **`{count}`**\n")
+            f.write(f"### ✅ Solved LeetCode Problems: **'{count}'**\n")
         else:
             f.write(line)
