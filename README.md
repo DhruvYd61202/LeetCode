@@ -82,6 +82,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/DhruvYd61202/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/DhruvYd61202/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DhruvYd61202/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvYd61202/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -158,6 +159,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DhruvYd61202/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/DhruvYd61202/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DhruvYd61202/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0189-rotate-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/DhruvYd61202/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
