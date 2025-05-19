@@ -1,5 +1,4 @@
 # LeetCode Solutions – SQL, Pandas & DSA
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Used-informational?logo=pandas)
 ![MySQL](https://img.shields.io/badge/MySQL-SQL-blue?logo=mysql&logoColor=white)
@@ -9,7 +8,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/your_username_here/)
 
 ---
-### ✅ Solved LeetCode Problems: **`0`**
+### ✅ Solved LeetCode Problems: **'0'**
 ## 📘 About This Repository
 
 This repository contains structured solutions to a variety of **LeetCode problems** using:
