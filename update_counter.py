@@ -1,7 +1,7 @@
 import os
 
 root_dir = 'LeetCode'  # Your root folder with all problem folders
-valid_extensions = ('.py', '.cpp', '.java')  # Adjust if needed
+valid_extensions = ('.py', '.sql')  # Adjust if needed
 
 count = 0
 for dirpath, dirnames, filenames in os.walk(root_dir):
