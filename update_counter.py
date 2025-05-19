@@ -1,7 +1,7 @@
 import os
 
 root_dir = 'LeetCode'  # Change if needed
-valid_extensions = ('.py', '.cpp', '.java')
+valid_extensions = ('.py', '.sql')
 
 count = 0
 for dirpath, dirnames, filenames in os.walk(root_dir):
