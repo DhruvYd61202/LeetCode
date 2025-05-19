@@ -16,6 +16,6 @@ with open(readme_path, 'r') as f:
 with open(readme_path, 'w') as f:
     for line in lines:
         if line.startswith("### ✅ Solved LeetCode Problems"):
-            f.write(f"### ✅ Solved LeetCode Problems: **`{count}`**\n")
+            f.write(f"### ✅ Solved LeetCode Problems: **'{count}'**\n")
         else:
             f.write(line)
