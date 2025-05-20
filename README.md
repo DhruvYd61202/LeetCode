@@ -160,6 +160,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | ------- |
 | [0009-palindrome-number](https://github.com/DhruvYd61202/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/DhruvYd61202/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/DhruvYd61202/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DhruvYd61202/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/DhruvYd61202/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0189-rotate-array) |
@@ -181,6 +182,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/DhruvYd61202/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhruvYd61202/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sliding Window
 |  |
