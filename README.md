@@ -149,6 +149,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0071-simplify-path](https://github.com/DhruvYd61202/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/DhruvYd61202/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DhruvYd61202/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/DhruvYd61202/LeetCode/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/DhruvYd61202/LeetCode/tree/master/0392-is-subsequence) |
 | [3707-find-the-most-common-response](https://github.com/DhruvYd61202/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## String Matching
@@ -164,6 +165,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0150-evaluate-reverse-polish-notation](https://github.com/DhruvYd61202/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/DhruvYd61202/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/DhruvYd61202/LeetCode/tree/master/0224-basic-calculator) |
 | [3859-maximum-product-of-two-digits](https://github.com/DhruvYd61202/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
@@ -195,4 +197,9 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0020-valid-parentheses](https://github.com/DhruvYd61202/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/DhruvYd61202/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DhruvYd61202/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/DhruvYd61202/LeetCode/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/DhruvYd61202/LeetCode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
