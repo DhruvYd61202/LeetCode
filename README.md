@@ -91,6 +91,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhruvYd61202/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/DhruvYd61202/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/DhruvYd61202/LeetCode/tree/master/0274-h-index) |
 | [0643-maximum-average-subarray-i](https://github.com/DhruvYd61202/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3707-find-the-most-common-response](https://github.com/DhruvYd61202/LeetCode/tree/master/3707-find-the-most-common-response) |
@@ -188,10 +189,12 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | ------- |
 | [0069-sqrtx](https://github.com/DhruvYd61202/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DhruvYd61202/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/DhruvYd61202/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvYd61202/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/DhruvYd61202/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/DhruvYd61202/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
@@ -213,4 +216,8 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DhruvYd61202/LeetCode/tree/master/0141-linked-list-cycle) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DhruvYd61202/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
