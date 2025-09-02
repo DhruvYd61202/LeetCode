@@ -93,6 +93,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvYd61202/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/DhruvYd61202/LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/DhruvYd61202/LeetCode/tree/master/0274-h-index) |
 | [0643-maximum-average-subarray-i](https://github.com/DhruvYd61202/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3707-find-the-most-common-response](https://github.com/DhruvYd61202/LeetCode/tree/master/3707-find-the-most-common-response) |
@@ -116,6 +117,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/DhruvYd61202/LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/DhruvYd61202/LeetCode/tree/master/0274-h-index) |
 | [3859-maximum-product-of-two-digits](https://github.com/DhruvYd61202/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Hash Table
@@ -124,6 +126,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvYd61202/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/DhruvYd61202/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/DhruvYd61202/LeetCode/tree/master/0217-contains-duplicate) |
 | [3707-find-the-most-common-response](https://github.com/DhruvYd61202/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## Divide and Conquer
 |  |
