@@ -95,6 +95,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvYd61202/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/DhruvYd61202/LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/DhruvYd61202/LeetCode/tree/master/0274-h-index) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/DhruvYd61202/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3707-find-the-most-common-response](https://github.com/DhruvYd61202/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## Two Pointers
@@ -127,6 +128,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0141-linked-list-cycle](https://github.com/DhruvYd61202/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DhruvYd61202/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DhruvYd61202/LeetCode/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3707-find-the-most-common-response](https://github.com/DhruvYd61202/LeetCode/tree/master/3707-find-the-most-common-response) |
 ## Divide and Conquer
 |  |
