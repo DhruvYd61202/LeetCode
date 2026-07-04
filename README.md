@@ -99,6 +99,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DhruvYd61202/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/DhruvYd61202/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [3707-find-the-most-common-response](https://github.com/DhruvYd61202/LeetCode/tree/master/3707-find-the-most-common-response) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/DhruvYd61202/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0217-contains-duplicate](https://github.com/DhruvYd61202/LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/DhruvYd61202/LeetCode/tree/master/0274-h-index) |
 | [3859-maximum-product-of-two-digits](https://github.com/DhruvYd61202/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/DhruvYd61202/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | [0045-jump-game-ii](https://github.com/DhruvYd61202/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DhruvYd61202/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DhruvYd61202/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/DhruvYd61202/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Binary Search
 |  |
 | ------- |
