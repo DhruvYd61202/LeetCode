@@ -12,3 +12,4 @@ class Solution:
             ans += nums[-1 - j] * (mul - 1 - j)
 
         return ans
+        
