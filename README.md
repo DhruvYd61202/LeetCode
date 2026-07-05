@@ -213,6 +213,7 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvYd61202/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/DhruvYd61202/LeetCode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/DhruvYd61202/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DhruvYd61202/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DhruvYd61202/LeetCode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/DhruvYd61202/LeetCode/tree/master/0224-basic-calculator) |
@@ -232,4 +233,16 @@ Each solution includes a clear problem link, concise explanation, and clean, wel
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvYd61202/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DhruvYd61202/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DhruvYd61202/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DhruvYd61202/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
